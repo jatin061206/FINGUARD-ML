@@ -169,20 +169,4 @@ streamlit run dashboard/app/py
 | **Real-Time Inference**     | Integrate Kafka or Celery for live fraud monitoring                                                   |
 | **UI Expansion**            | Add role-based access (analyst, admin) and visualization filters                                      |
 
-## 📜 License
 
-This project is licensed under the MIT License — you are free to use, modify, and distribute it with attribution.
-
-## Acknowledgements
-
-- [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-- Streamlit community for dashboard inspiration
-- SHAP & LIME teams for explainable AI tools
-
-## Author
-
-Bestine Okinda 
-
-Data Scientist | Machine Learning Engineer | GenAI Specialist
-
-Kenya | [LinkedIn](https://www.linkedin.com/in/bestine-okinda-a429571a2/) | [Website](https://bestineokinda.carrd.co/)
